@@ -1,0 +1,18 @@
+# Core data analysis
+numpy
+pandas
+scipy
+
+# Data visualization
+matplotlib
+seaborn
+plotly
+
+# Machine learning and forecasting
+scikit-learn
+pycaret==3.3.2
+catboost
+xgboost
+
+# Hyperparameter optimization
+optuna
